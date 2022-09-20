@@ -1,5 +1,5 @@
-# Food-Reciepeapp
-Food Reciepe App with Vanilla Js
+
+# Food Reciepe App with Vanilla Js
 
 Rewritten from [ This YouTube Video](https://www.youtube.com/watch?v=opikz5x_1ak)
 
